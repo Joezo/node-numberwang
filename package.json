@@ -1,5 +1,5 @@
 {
-  "name": "node-numberwang",
+  "name": "numberwang",
   "version": "0.0.1",
   "description": "Iterates through objects and converts strings that look like numbers into numbers",
   "main": "index.js",
