@@ -1,6 +1,6 @@
 {
   "name": "numberwang",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Iterates through objects and converts strings that look like numbers into numbers",
   "main": "index.js",
   "scripts": {
