@@ -1,0 +1,22 @@
+{
+  "name": "node-numberwang",
+  "version": "0.0.1",
+  "description": "Iterates through objects and converts strings that look like numbers into numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Joezo/node-numberwang.git"
+  },
+  "keywords": [
+    "number",
+    "string",
+    "convert",
+    "type",
+    "typecast"
+  ],
+  "author": "Joe Warren <joe.warren@holidayextras.com>",
+  "license": "MIT"
+}
